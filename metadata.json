@@ -1,0 +1,5 @@
+{
+  "name": "AI 이미지 분할기 & 화질 개선",
+  "description": "Upload a grid image, split it into individual tiles, enhance their quality using Gemini AI, and download them in various aspect ratios.",
+  "requestFramePermissions": []
+}
